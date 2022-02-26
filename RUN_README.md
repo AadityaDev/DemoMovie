@@ -20,6 +20,7 @@ No installation, this application is to be used on the browser. If wanting to wo
 This application will allow users to search for movies and will be able to click on them to view their MovieDB page.<br>
 
 # run
+npm i
 export NODE_OPTIONS=--openssl-legacy-provider
 npm run start
 <img src='public/images/search.png'><br>
